@@ -41,3 +41,13 @@ Key Features
 ✔️ Guest reviews & ratings system
 ✔️ Secure & simple checkout flow
 
+Importance of Design Properties in Mockups
+Consistency - Predefined colors/fonts ensure visual harmony across all screens
+
+Developer Handoff - Exact values streamline CSS implementation
+
+Brand Identity - Maintains cohesive look aligning with AirBnB's aesthetic
+
+Responsive Adaptation - Typography scales predictably across devices
+
+Accessibility - Contrast ratios and font sizes meet WCAG standards
