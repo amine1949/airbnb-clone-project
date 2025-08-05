@@ -51,3 +51,8 @@ Brand Identity - Maintains cohesive look aligning with AirBnB's aesthetic
 Responsive Adaptation - Typography scales predictably across devices
 
 Accessibility - Contrast ratios and font sizes meet WCAG standards
+
+
+Project Roles and Responsibilities
+The success of the AirBnB Clone project relies on clearly defined roles and collaborative teamwork. The Project Manager oversees timelines, coordinates cross-functional efforts, and mitigates risks to ensure on-track delivery. Frontend Developers build responsive user interfaces using React.js, while Backend Developers develop APIs and business logic with Python/Django, ensuring seamless data flow. UI/UX Designers craft intuitive wireframes and maintain design consistency in Figma, directly supporting frontend implementation. QA/Testers validate functionality through automated and manual testing, safeguarding release quality. DevOps Engineers configure AWS infrastructure and CI/CD pipelines (GitHub Actions) for efficient deployments. The Product Owner prioritizes features and refines the backlog based on stakeholder feedback, while the Scrum Master facilitates Agile ceremonies (daily standups, sprint reviews) to optimize workflows. Regular syncs between teams—such as API contract reviews (Backend ↔ Frontend) and design handoffs (UI ↔ Frontend)—ensure alignment. Together, these roles create a streamlined process from ideation to deployment, balancing technical excellence with user-centric outcomes.
+
