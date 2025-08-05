@@ -23,3 +23,21 @@ Project Goals
 4. Include a review system for properties.
 
 5. Ensure responsive design for various screen sizes.
+
+UI/UX Design Planning:
+Design Goals
+1. Intuitive Navigation: Users should easily browse properties without confusion.
+
+2. Visual Appeal: Clean, modern aesthetics with high-quality images.
+
+3. Mobile-First Approach: Responsive design for all devices.
+
+4. Fast & Seamless Booking: Minimize steps for a smooth checkout process.
+
+Key Features
+✔️ Search & filtering options (price, location, amenities)
+✔️ Interactive property gallery with high-res images
+✔️ Booking calendar with availability indicators
+✔️ Guest reviews & ratings system
+✔️ Secure & simple checkout flow
+
