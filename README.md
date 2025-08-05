@@ -56,3 +56,70 @@ Accessibility - Contrast ratios and font sizes meet WCAG standards
 Project Roles and Responsibilities
 The success of the AirBnB Clone project relies on clearly defined roles and collaborative teamwork. The Project Manager oversees timelines, coordinates cross-functional efforts, and mitigates risks to ensure on-track delivery. Frontend Developers build responsive user interfaces using React.js, while Backend Developers develop APIs and business logic with Python/Django, ensuring seamless data flow. UI/UX Designers craft intuitive wireframes and maintain design consistency in Figma, directly supporting frontend implementation. QA/Testers validate functionality through automated and manual testing, safeguarding release quality. DevOps Engineers configure AWS infrastructure and CI/CD pipelines (GitHub Actions) for efficient deployments. The Product Owner prioritizes features and refines the backlog based on stakeholder feedback, while the Scrum Master facilitates Agile ceremonies (daily standups, sprint reviews) to optimize workflows. Regular syncs between teams—such as API contract reviews (Backend ↔ Frontend) and design handoffs (UI ↔ Frontend)—ensure alignment. Together, these roles create a streamlined process from ideation to deployment, balancing technical excellence with user-centric outcomes.
 
+
+UI Component Patterns
+Core Reusable Components
+Navbar
+
+Responsive header with:
+
+Logo linking to homepage
+
+Search bar (location/date filters)
+
+User profile dropdown (login/signup or account menu)
+
+Mobile hamburger menu for smaller screens
+
+Property Card
+
+Compact listing preview showing:
+
+Image carousel with favoriting button
+
+Key details (price, location, rating)
+
+Quick-view "Book Now" CTA
+
+Responsive hover effects
+
+Footer
+
+Site-wide footer containing:
+
+Quick links (About, FAQs, Contact)
+
+Social media icons
+
+Copyright/legal information
+
+Newsletter signup form
+
+Booking Modal
+
+Date picker calendar
+
+Guest counter (+/- buttons)
+
+Price breakdown calculator
+
+Confirmation CTA button
+
+Review Component
+
+Star rating display/input
+
+User avatar + timestamp
+
+Expandable review text
+
+Helpfulness voting buttons
+
+Design Principles
+Consistency: Shared spacing (8px grid) and color system
+
+Reusability: Props-driven customization (e.g., different Property Card sizes)
+
+Accessibility: ARIA labels, keyboard navigation support
+
+Performance: Lazy-loaded images, skeleton loaders
